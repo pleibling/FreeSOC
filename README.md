@@ -17,9 +17,9 @@ First clone this Git local:
 
 ## Installation
 Then go to this folder, make prepare.sh executable and run it (without sudo or root - sudo ask for rights if required):
-`cd FreeSOC
-chmod +x *.sh
-./prepare.sh`
+`cd FreeSOC`
+`chmod +x *.sh`
+`./prepare.sh`
 
 It creaates the needed folderstructure and create needed conf-files.
 
