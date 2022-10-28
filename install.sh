@@ -1,9 +1,9 @@
 #!/bin/bash
 # Now starts the Magic!
-
+docker compose up
 
 
 echo "**************************************************"
-echo "* Please edit .env File with your own Secret Key *"
-Echo "* After then, start ./install.sh                 *"
+echo "* Read Info                                      *"
+Echo "* More info                                      *"
 echo "**************************************************"
