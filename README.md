@@ -1,5 +1,5 @@
 # FreeSOC
-FreeSOC - Open Source SOC complete in Docker.
+:lock: FreeSOC - Open Source SOC complete in Docker.
 
 ## Products:
 - Wazuh
@@ -8,7 +8,7 @@ FreeSOC - Open Source SOC complete in Docker.
 - Cortex
 - Shuffle
 
-Basicconfiguration for TheHive and Cortex based on https://github.com/chinyati/Article-Resources/tree/active/Hive%26Cortex
+:memo: Basicconfiguration for TheHive and Cortex based on https://github.com/chinyati/Article-Resources/tree/active/Hive%26Cortex
 
 ## Prepare
 First clone this Git local:
@@ -23,7 +23,7 @@ Then go to this folder, make prepare.sh executable and run it (without sudo or r
 
 It creaates the needed folderstructure and create needed conf-files.
 
-Edit .env file an create an own Secret Key.
+✏️Edit .env file an create an own Secret Key.
 
 After then start install.sh:
 `./install.sh`
