@@ -23,7 +23,7 @@ Then go to this folder, make prepare.sh executable and run it (without sudo or r
 
 It creaates the needed folderstructure and create needed conf-files.
 
-✏️Edit .env file an create an own Secret Key.
+✏️ Edit .env file an create an own Secret Key.
 
 After then start install.sh:
 `./install.sh`
