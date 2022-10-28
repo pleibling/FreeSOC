@@ -13,6 +13,7 @@ Basicconfiguration for TheHive and Cortex based on https://github.com/chinyati/A
 First clone this Git local:
 sudo git https://github.com/pleibling/FreeSOC
 
-Then go to this folder and run prepare.sh (without sudo or root - sudo ask for rights if required):
-cd FreeSOC
-prepare.sh
+Then go to this folder, make prepare.sh executable and run it (without sudo or root - sudo ask for rights if required):
+- cd FreeSOC
+- chmod +x prepare.sh
+- ./prepare.sh
