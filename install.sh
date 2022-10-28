@@ -1,6 +1,6 @@
 #!/bin/bash
 # Now starts the Magic!
-docker compose up
+docker-compose up
 
 
 echo "**************************************************"
