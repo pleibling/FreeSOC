@@ -1,5 +1,6 @@
 #!/bin/bash
 # Create Folderstructure
+mkdir ~/cassandra/
 mkdir ~/cassandra/data
 mkdir ~/elasticsearch/data
 mkdir ~/elasticsearch/logs
