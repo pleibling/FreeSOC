@@ -2,6 +2,7 @@
 # Create Folderstructure
 mkdir ~/cassandra/
 mkdir ~/cassandra/data
+mkdir ~/elasticsearch
 mkdir ~/elasticsearch/data
 mkdir ~/elasticsearch/logs
 mkdir ~/cortex
