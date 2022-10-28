@@ -12,4 +12,6 @@ cp thehive-application.conf ~/thehive/application.conf
 sudo apt update
 sudo apt install docker docker-compose
 clear
-echo "Please edit .env File with your own Secret Key"
+echo "**************************************************"
+echo "* Please edit .env File with your own Secret Key *"
+echo "**************************************************"
