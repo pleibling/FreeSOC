@@ -1,5 +1,5 @@
 # FreeSOC
-FreeSOC - Open Source SOC complete  in Docker.
+FreeSOC - Open Source SOC complete in Docker.
 
 Products:
 - Wazuh
@@ -15,5 +15,13 @@ First clone this Git local:
 
 Then go to this folder, make prepare.sh executable and run it (without sudo or root - sudo ask for rights if required):
 - cd FreeSOC
-- chmod +x prepare.sh
+- chmod +x *.sh
 - ./prepare.sh
+
+It creaates the needed folderstructure and create needed conf-files.
+
+Edit .env file an create an own Secret Key.
+
+After then start install.sh:
+- ./install.sh
+
