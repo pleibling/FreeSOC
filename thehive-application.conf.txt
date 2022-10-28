@@ -1,2 +1,0 @@
-play.http.secret.key="PASTE YOUR OWN KEY HERE"
-play.http.parser.maxDiskBuffer: 50MB
