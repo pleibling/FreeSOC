@@ -1,4 +1,4 @@
-### 🧑‍💻 English Version below!
+### 🚨 English Version below!
 
 # FreeSOC
 :lock: FreeSOC - Open Source SOC komplett in Docker. In einem Docker Container erhalten sie eine komplette Lösung um Logs sowie Ereignisse zu sichern, IoC's aus den verschiedensten Quellen, erkennung dieser IoC's, warnen der Administratoren und erstellen von Fällen, sammeln und erkennen von verdächtigen Inhalten - anreichern der Fälle mit diesen Informationen. Gehen sie an ihren Schreibtisch und starten sie direkt - die benötigen Informationen sind schon da.
